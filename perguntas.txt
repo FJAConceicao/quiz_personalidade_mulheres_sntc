@@ -1,0 +1,83 @@
+﻿Em qual área você mais se identifica?
+Matemática
+Kizzy Terra
+Nina da Hora
+Biologia
+Jaqueline Goes
+Marie Curie
+Portugues
+Ada Lovelace
+Enedina Alves
+Física
+Sônia Guimarães
+Ana Claudia
+
+Em que lugar você passaria férias?
+França
+Nina da hora
+Ana Claudia
+Inglaterra
+Marie Curie
+Jaqueline Goes
+Brasil
+Sônia Guimarães
+Enedina Alves
+Estados Unidos
+Kizzy Terra
+Nina da hora
+
+Qual seria sua profissão dos sonhos?
+Cientista
+Ana Claudia
+Kizzy Terra
+Política
+Nina da hora
+Sônia Guimarães
+Escritor(a)
+Ada Lovelace
+Kizzy Terra
+Medicina
+Jaqueline Goes
+Marie Curie
+
+Como seus amigos te descrevem?
+Persistente
+Sônia Guimarães
+Kizzy Terra
+Inteligente
+Nina da hora
+Ana Claudia
+Dedicado(a)
+Kizzy Terra
+Jaqueline Goes
+Determinado(a)
+Enedina Alves
+Nina da hora
+
+Qual seria seu hobby preferido?
+Leitura
+Ada Lovelace
+Enedina Alves
+Programar Algoritmos
+Kizzy Terra
+Nina da hora
+Ensinar
+Sônia Guimarães
+Ana Claudia
+Computação
+Kizzy Terra
+Nina da hora
+
+Qual clima você prefere?
+Verão
+Nina da hora
+Kizzy Terra
+Primavera
+Jaqueline Goes
+Kizzy Terra
+Inverno
+Sônia Guimarães
+Enedina Alves
+Outono
+Ana Claudia
+Enedina Alves
